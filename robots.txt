@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://avrasya-altyapi.vercel.app/sitemap.xml
+Sitemap: https://www.avrasyaaltyapi.com/sitemap.xml
